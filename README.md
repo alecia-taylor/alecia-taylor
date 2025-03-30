@@ -24,7 +24,8 @@
 
 ## 📊 GitHub Activity  
 🚀 Always building, always learning!
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alecia-taylor&theme=radical)
+
 
 
 

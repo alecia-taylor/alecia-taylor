@@ -1,12 +1,12 @@
 ## 💫 Hi, I'm Alecia
-🎨 I’m a creative and tech-savvy professional passionate about web development and design.
-🌍 I showcase my work on aleciataylor.com.
-🔭 Currently, I'm expanding my skills in full-stack ad python ai development.
-👀 I’m looking to collaborate on innovative web projects that push the boundaries of design and functionality.
-🤝 Open to networking, brainstorming, and sharing knowledge with fellow developers and creatives.
-🌱 Currently learning advanced JavaScript, modern frameworks, and refining my UX/UI expertise.
-💬 Ask me about web development, design trends, and anything tech-related!
-⚡ Fun fact: When I’m not coding, you might find me exploring new design inspirations or crafting engaging content!
+- 🎨 I’m a creative and tech-savvy professional passionate about web development and design.
+- 🌍 I showcase my work on aleciataylor.com.
+- 🔭 Currently, I'm expanding my skills in full-stack ad python ai development.
+- 👀 I’m looking to collaborate on innovative web projects that push the boundaries of design and functionality.
+- 🤝 Open to networking, brainstorming, and sharing knowledge with fellow developers and creatives.
+- 🌱 Currently learning advanced JavaScript, modern frameworks, and refining my UX/UI expertise.
+- 💬 Ask me about web development, design trends, and anything tech-related!
+- ⚡ Fun fact: When I’m not coding, you might find me exploring new design inspirations or crafting engaging content!
  
 ## 🌐 Connect with Me  
 
@@ -34,9 +34,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p>
 
-## 📊 GitHub Activity  
-🚀 Always building, always learning!
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alecia-taylor&theme=radical)
 
 
 

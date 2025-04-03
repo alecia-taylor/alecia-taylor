@@ -1,6 +1,5 @@
 ## 💫 Hi, I'm Alecia
 - 🎨 I’m a creative and tech-savvy professional passionate about web development and design.
-- 🌍 I showcase my work on aleciataylor.com.
 - 🔭 Currently, I'm expanding my skills in full-stack ad python ai development.
 - 👀 I’m looking to collaborate on innovative web projects that push the boundaries of design and functionality.
 - 🤝 Open to networking, brainstorming, and sharing knowledge with fellow developers and creatives.
